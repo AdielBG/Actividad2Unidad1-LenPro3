@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Calculadora";
+}
+
+<h2>Calculadora</h2>
+
+<div class="container container-sm">
+
+<form action="/Calculadora/Calcular" method="post">
+    <label for="num1">Primer numero:</label> <br />
+    <input class="col-form-input" type="number" name="num1" id="num1" value="" /> <br /> <br />
+
+    <label for="num2">Segundo numero:</label> <br />
+    <input class="col-form-input" type="number" name="num2" id="num2" value="" /> <br /> <br />
+
+    <label for="num1">Operacion:</label> <br />
+    <select class="form-select" id="operacion" name="operacion">
+        <option value="sumar" id="sumar" name="sumar">Sumar(+)</option>
+        <option value="restar" id="restar" name="restar">Restar(-)</option>
+        <option value="multiplicar" id="multiplicar" name="Multiplicar">Multiplicar(*)</option>
+        <option value="dividir" id="dividir" name="dividir">Dividir(/)</option>
+    </select> <br /> <br />
+    <input class="btn btn-primary" type="submit" value="Enviar" />
+</form>
+
+</div>

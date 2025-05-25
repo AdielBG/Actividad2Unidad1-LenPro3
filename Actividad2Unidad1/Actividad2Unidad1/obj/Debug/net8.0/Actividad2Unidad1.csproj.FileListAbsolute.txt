@@ -27,3 +27,4 @@ C:\Users\Usuario\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\E
 C:\Users\Usuario\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Escritorio\Ejercicios_Programacion3\Actividad2Unidad1-LenPro3\Actividad2Unidad1\Actividad2Unidad1\obj\Debug\net8.0\Actividad2Unidad1.pdb
 C:\Users\Usuario\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Escritorio\Ejercicios_Programacion3\Actividad2Unidad1-LenPro3\Actividad2Unidad1\Actividad2Unidad1\obj\Debug\net8.0\Actividad2Unidad1.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Escritorio\Ejercicios_Programacion3\Actividad2Unidad1-LenPro3\Actividad2Unidad1\Actividad2Unidad1\obj\Debug\net8.0\ref\Actividad2Unidad1.dll
+C:\Users\Usuario\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Escritorio\Ejercicios_Programacion3\Actividad2Unidad1-LenPro3\Actividad2Unidad1\Actividad2Unidad1\obj\Debug\net8.0\Actividad2Unidad1.sourcelink.json
