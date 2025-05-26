@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Conversor de Moneda";
+}
+
+<div class="container">
+
+<h2>Convertir de Pesos Dominicanos a otra moneda</h2>
+
+<form method="post" action="/Moneda/Convertir">
+    <label for="monto">Monto en DOP:</label><br />
+    <input type="number" name="monto" step="0.01" required /><br /><br />
+
+    <label for="divisa">Seleccione la divisa:</label><br />
+    <select name="divisa" required>
+        <option value="USD">Dólar estadounidense (USD)</option>
+        <option value="EUR">Euro (EUR)</option>
+    </select><br /><br />
+
+    <input class="btn btn-primary" type="submit" value="Convertir" />
+</form>
+
+</div>

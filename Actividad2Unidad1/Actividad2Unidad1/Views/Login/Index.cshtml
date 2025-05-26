@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+
+}
+
+
+<div class="container form-control">
+
+    <form class="form-control-sm" action="/Login/Verificar" method="post">
+        
+
+        <h3 class="">Login</h3> <hr />
+
+        <label class="form-label" for="usuario">Usuario</label><br />
+        <input type="text" name="usuario" value="" /> <br /><br />
+
+        <label class="form-label" for="contraseña">Contraseña</label><br />
+        <input type="password" name="contraseña" value="" /> <br /><br /> 
+
+        <input class="btn btn-primary" type="submit" name="enviar" value="Iniciar sesion" />
+
+
+    </form>
+
+</div>
