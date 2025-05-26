@@ -20,7 +20,7 @@ namespace Actividad2Unidad1.Controllers
                 ViewBag.Mensaje = $"Su promedio es {promedio}. Aprobado";
             
             }
-            else if (promedio > 60 & promedio < 69)
+            else if (promedio >= 60 & promedio <= 69)
             {
 
                 ViewBag.Mensaje = $"Su promedio es {promedio}. En recuperación";
